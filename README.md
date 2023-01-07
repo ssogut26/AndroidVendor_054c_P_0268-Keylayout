@@ -5,23 +5,23 @@ This is for clone GUO HUA PS3 controller keylayout for android.
 
 
 
-# Copyright (C) 2020 The Android Open Source Project
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#      http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
+ Copyright (C) 2020 The Android Open Source Project
 
-#
-# For GUO HUA PS3 Controller 
-#
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+
+
+ For GUO HUA PS3 Controller 
+
 
 key 304 BUTTON_A
 key 305 BUTTON_B
@@ -34,7 +34,7 @@ key 314 BUTTON_SELECT
 key 317 BUTTON_THUMBL
 key 318 BUTTON_THUMBR
 
-# Left and right stick.
+ Left and right stick.
 axis 0x00 X
 axis 0x01 Y
 axis 0x03 Z
@@ -48,5 +48,5 @@ key 0x223   DPAD_RIGHT
 key 0x221   DPAD_DOWN
 key 0x222   DPAD_LEFT
 
-# "Guide" button (Xbox key).
+"Guide" button (PS key).
 key 316   BUTTON_MODE
