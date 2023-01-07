@@ -36,19 +36,6 @@ axis 0x04 RZ
 axis 0x02 BRAKE
 axis 0x05 GAS
 
-
-# Hat
-axis 0x06 HAT_X
-axis 0x07 HAT_Y
-
-
-# DPAD
-# axis 0x2c   -HAT_Y
-# axis 0x2d   +HAT_X
-# axis 0x2e   +HAT_Y
-# axis 0x2f   -HAT_X
-
-
 key 0x220   DPAD_UP
 key 0x223   DPAD_RIGHT
 key 0x221   DPAD_DOWN
